@@ -1,3 +1,4 @@
+![logo](https://github.com/Pakhi-09-Bose/Pakhi-09-Bose/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pakhi Bose</h1>
 <h3 align="center">Aspiring Data Analyst | Proficient in Python, SQL, Power BI, Tableau & Excel | MCA Graduate - MIT ADT UNIVERSITY | Turning Data into Insights</h3>
 
