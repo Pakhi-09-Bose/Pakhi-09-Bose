@@ -1,12 +1,13 @@
 ![logo](https://github.com/Pakhi-09-Bose/Pakhi-09-Bose/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Pakhi Bose</h1>
 <h3 align="center">Aspiring Data Analyst | Proficient in Python, SQL, Power BI, Tableau & Excel | MCA Graduate - MIT ADT UNIVERSITY | Turning Data into Insights</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pakhi-09-bose&label=Profile%20views&color=0e75b6&style=flat" alt="pakhi-09-bose" /> </p>
+- 📫 How to reach me **pakhibose5gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
+
 <p align="left">
 <a href="https://linkedin.com/in/pakhi bose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pakhi bose" height="30" width="40" /></a>
 </p>
